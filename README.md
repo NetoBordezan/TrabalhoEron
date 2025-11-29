@@ -22,3 +22,9 @@ Desenvolver colaborativamente um algoritmo em Java de calculo de imc.
 - git push -u origin main
 - E por último adicionei os outros integrantes como colaboradores no projeto
 
+### Carolina Hatakeyama
+- Após a criação do repositório, fiz um git clone git@github.com:NetoBordezan/TrabalhoEron.git no gitbash
+- Entrei no repositório e editei pelo IntelliJ, adicionando o código da Calculadora IMC
+- Fiz o git add .
+- Então dei o commit
+- E então fiz git push
