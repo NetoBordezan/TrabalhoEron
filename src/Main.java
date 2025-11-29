@@ -19,6 +19,18 @@ public class Main {
 
             // Exibição do resultado
             System.out.printf("Seu IMC é: %.2f%n", imc);
+
+            if (imc <18.5) {
+                System.out.println("Classificação: Abaixo do peso");
+            } else if (imc < 24.9) {
+                System.out.println("Classificação: Peso normal");
+            } else if (imc < 29.9) {
+                System.out.println("Classificação: Sobrepeso");
+            } else if(imc < 34.9) {
+                System.out.println("Classificação: Obesidade leve");
+            } else if (imc >= 39.99) {
+                System.out.println("Classificação: Obesidade grave");
+            }
             
 
         }
