@@ -20,4 +20,5 @@ Desenvolver colaborativamente um algoritmo em Java de calculo de imc.
 - git add .
 - git commit -m "Primeiro commit"
 - git push -u origin main
+- E por último adicionei os outros integrantes como colaboradores no projeto
 
