@@ -1,1 +1,23 @@
-# TrabalhoEron
+# Atividade Avaliativa - Git Colaborativo com Java
+
+## Integrantes do grupo
+- Luiz Carlos Bordezan Neto
+- Lucas Massahiro Obuchi
+- Carolina Hatakeyama
+
+## Objetivo
+Desenvolver colaborativamente um algoritmo em Java de calculo de imc.
+
+### Luiz Carlos Bordezan Neto
+- Primeiro eu criei o repositório no github somente com o readme em branco.
+- Então criei um projeto no intellij em branco.
+- Depois abri o gitbash na pasta do projeto e utilizei os seguintes comandos para dar um pull
+- git init
+- git branch -M main
+- git remote add origin git@github.com:NetoBordezan/TrabalhoEron.git
+- git pull origin main --allow-unrelated-histories
+- E depois utilizei os próximos para dar um push
+- git add .
+- git commit -m "Primeiro commit"
+- git push -u origin main
+
