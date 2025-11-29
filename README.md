@@ -28,3 +28,12 @@ Desenvolver colaborativamente um algoritmo em Java de calculo de imc.
 - Fiz o git add .
 - Então dei o commit
 - E então fiz git push
+
+
+### Lucas Massahiro Obuchi
+- Em seguida, classifiquei o IMC de acordo com cada peso
+- Fiz o git add .
+- commit -m "Classificacao do IMC"
+- git push -u origin main
+- Fim.
+
